@@ -8,6 +8,8 @@
 
 Alamofire is an HTTP networking library written in Swift.
 
+Make 4.x version support iOS8(why Alamofire dont supprot iOS8, you can see the [issue](https://github.com/Alamofire/Alamofire/issues/1367)).
+
 - [Features](#features)
 - [Component Libraries](#component-libraries)
 - [Requirements](#requirements)
